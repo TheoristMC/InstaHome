@@ -1,0 +1,35 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "InstaHome RP",
+		"description": "A minecraft add-on that adds \"waypoints\" in the game.",
+		"uuid": "50e333e4-baa3-46e5-ad49-0b990c4fdacb",
+		"pack_scope": "world",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			20,
+			30
+		]
+	},
+	"metadata": {
+		"authors": [
+			"TheoristMC"
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "0ea31d3f-9971-4324-9e56-019b0a910b55",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
