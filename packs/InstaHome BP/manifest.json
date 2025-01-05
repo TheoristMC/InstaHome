@@ -2,7 +2,7 @@
   "format_version": 2,
   "header": {
     "name": "InstaHome BP",
-		"description": "A minecraft add-on that adds \"waypoints\" in the game.",
+    "description": "A minecraft add-on that adds \"waypoints\" in the game.",
     "uuid": "d56b053d-7570-408d-b925-9bb9d503de0d",
     "version": [
       1,
